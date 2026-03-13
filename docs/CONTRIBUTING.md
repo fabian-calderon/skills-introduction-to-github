@@ -23,3 +23,5 @@ Gracias por tu interés en contribuir a este proyecto.
 - Usa nombres claros.
 - Mantén la documentación simple.
 - Evita cambios innecesarios fuera del alcance del PR.
+
+APORTE POR ......
