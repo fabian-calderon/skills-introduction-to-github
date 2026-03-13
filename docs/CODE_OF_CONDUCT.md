@@ -19,3 +19,5 @@ Este proyecto busca mantener una comunidad abierta, respetuosa y profesional.
 ## Aplicación
 
 Los mantenedores del proyecto pueden moderar conversaciones, solicitar correcciones o rechazar contribuciones que no respeten estas normas.
+
+APORTE POR ......
